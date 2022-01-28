@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @official-tsand
 - 👀 I’m interested in physics ☢, mathematics 👨‍🏫, programming 💭 and much more...
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning PHP and MariaDB
